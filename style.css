@@ -1,0 +1,38 @@
+body {
+  background-color:lightblue;
+}
+
+.main-body{
+  width:1000px;
+  background-color:white;
+  margin:auto;
+  text-align:center;
+  margin-top:120px;
+  height:1140px;
+}
+
+.header{
+  position: fixed;
+  left: 50%;
+  transform: translateX(-50%);
+  top:0px;
+}
+
+.title{
+  background-color:lightgreen;
+  height:100px;
+  margin-top:0px;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+
+.colorgrid{
+  width:900px;
+  margin:auto;
+  background-color:gray;
+  height:900px;
+  margin-top:50px;
+}
+
+
